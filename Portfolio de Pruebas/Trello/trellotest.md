@@ -55,6 +55,7 @@ Resultado esperado:  el color  rojo seleccionado se aplica correctamente
 Resultado real: el color rojo fue aplicado
 Estado: Pasó
 Severidad: Alta
+<<<<<<< HEAD
 Notas:  pruebas tc002-01, tc002-02
 Fecha:  13/8/2025
 Tester: Leandro YGZqa
@@ -62,6 +63,11 @@ Tester: Leandro YGZqa
 ![Catbox](https://files.catbox.moe/ttlswx.png)
 
 
+=======
+Notas:  2 capturas  de pantallas,  tc002-01, tc002-02
+Fecha:  13/8/2025
+Tester: Leandro YGZqa
+>>>>>>> 3eae8c06f12346616fd95a1ea6c82c612c637433
 
 # ID: TC003
 Título: Crear tablero en un espacio de trabajo específico
@@ -82,11 +88,17 @@ Resultado esperado: el tablero se asocia a ' Pruebas LeandroYGZqa  ''
 Resultado real: el tablero se asoció correctamente
 Estado: Pasó
 Severidad: Alta
+<<<<<<< HEAD
 Notas:  pruebas  tc003-01,tc003-02
 Fecha:  13/8/2025
 Tester: Leandro YGZqa![Catbox](https://files.catbox.moe/r6xpgk.png)
 ![Catbox](https://files.catbox.moe/8qb53k.png)
 
+=======
+Notas:  
+Fecha:  13/8/2025
+Tester: Leandro YGZqa
+>>>>>>> 3eae8c06f12346616fd95a1ea6c82c612c637433
 
 # ID: TC004
 Título: Crear tablero con visibilidad privada
@@ -107,11 +119,17 @@ Resultado esperado:  solo el creador del tablero puede visibilizarlo
 Resultado real:  solo el creador puede visibilizarlo 
 Estado: Pasó
 Severidad: Alta
+<<<<<<< HEAD
 Notas:  captura tc004, tc004-01
 Fecha:  13/8/2025
 Tester: Leandro YGZqa![Catbox](https://files.catbox.moe/yanz12.png)
 ![Catbox](https://files.catbox.moe/ghtufd.png)
 
+=======
+Notas:  captura TC004, tc004-01
+Fecha:  13/8/2025
+Tester: Leandro YGZqa
+>>>>>>> 3eae8c06f12346616fd95a1ea6c82c612c637433
 
 # ID: TC005
 Título: Crear tablero con visibilidad pública
@@ -131,10 +149,16 @@ Resultado esperado:  Tablero creado y es público, todas las personas pueden ver
 Resultado real: El tablero creado puede ser visto por cualquier persona
 Estado: Pasó
 Severidad: Alta
+<<<<<<< HEAD
 Notas:  pruebas tc005
 Fecha:  12/8/2025
 Tester: Leandro YGZqa![Catbox](https://files.catbox.moe/ac9jif.jpg)
 
+=======
+Notas: c
+Fecha:  12/8/2025
+Tester: Leandro YGZqa
+>>>>>>> 3eae8c06f12346616fd95a1ea6c82c612c637433
 
 # ID: TC006
 Título: Crear tablero y agregar miembros
@@ -160,5 +184,8 @@ Severidad: Alta
 Notas: capturas de pantalla:  tc006-01,  tc006-02
 Fecha:  13/8/2025
 Tester: Leandro YGZqa
+<<<<<<< HEAD
 ![Catbox](https://files.catbox.moe/zujao1.png)
 ![Catbox](https://files.catbox.moe/llzgi6.jpg)
+=======
+>>>>>>> 3eae8c06f12346616fd95a1ea6c82c612c637433
