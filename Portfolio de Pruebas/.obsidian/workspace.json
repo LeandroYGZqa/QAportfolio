@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "1bd5303c022f4f56",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b51f5accc67eb01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f347fe507a81f53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cronograma de Entrenamiento en Desarrollo de Pruebas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cronograma de Entrenamiento en Desarrollo de Pruebas"
+            }
+          },
+          {
+            "id": "bba2cc1cfbbae5b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cronograma de Entrenamiento en Desarrollo de Pruebas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cronograma de Entrenamiento en Desarrollo de Pruebas"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6480045a4951c6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b357c4b924c458",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c8d1fcea823ac37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "586c707cfaf4e7e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9bd4ca4a8662d1e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3582147668df2cb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "83c4b88f991e36ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b1e45eda03982f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cronograma de Entrenamiento en Desarrollo de Pruebas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cronograma de Entrenamiento en Desarrollo de Pruebas"
+            }
+          },
+          {
+            "id": "0601c96d97306512",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cronograma de Entrenamiento en Desarrollo de Pruebas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cronograma de Entrenamiento en Desarrollo de Pruebas"
+            }
+          },
+          {
+            "id": "6d0b91b5c7b56e70",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3468c600f5b11f3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cronograma de Entrenamiento en Desarrollo de Pruebas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cronograma de Entrenamiento en Desarrollo de Pruebas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bba2cc1cfbbae5b6",
+  "lastOpenFiles": [
+    "Trello/día 1-2.md",
+    "tc001.png",
+    "Cronograma de Entrenamiento en Desarrollo de Pruebas.md",
+    "Trello"
+  ]
+}
