@@ -31,7 +31,8 @@ Notas: capturas hechas con shareX , nombre tc001.png
 Fecha:  12/8/2025
 Tester: Leandro YGZqa
 
-![[tc001.png]] 
+![TC001 - Crear tablero con nombre válido](https://github.com/LeandroYGZqa/QAportfolio/blob/main/Portfolio%20de%20Pruebas/tc001.png?raw=true)
+ 
 
 # ID: TC002
 Título: Crear tablero seleccionando color de fondo
