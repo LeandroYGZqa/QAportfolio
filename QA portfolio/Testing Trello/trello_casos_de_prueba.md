@@ -1,6 +1,6 @@
 | ID    | Caso de prueba                                                                 | Prioridad |
 |-------|--------------------------------------------------------------------------------|-----------|
-| [T001](/t001.md)| Verificar la creación_tablero EN pantalla_inicio con botón "Crear" en navbar  | HP        |
+| [T001](//t001.md)| Verificar la creación_tablero EN pantalla_inicio con botón "Crear" en navbar  | HP        |
 | T002  | Verificar la creación_tablero EN pantalla_inicio con botón "Crear un tablero nuevo" | HP   |
 | T003  | Verificar denegación de creación_tablero CON título_sin_nombre                | BP        |
 | T004  | Verificar denegación de creación_tablero CON título mayor a 100 caracteres    | BP        |
