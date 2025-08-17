@@ -1,74 +1,72 @@
-Cronograma de Entrenamiento en Desarrollo de Pruebas (4 semanas, producto nuevo cada bloque)
-Semana 1 – Pruebas funcionales iniciales
-Enfoque: Casos básicos, UI y funciones esenciales.
+# 📆 Cronograma de Entrenamiento en Desarrollo de Pruebas
 
-Día 1-2 – Producto: Trello
+Duración: **4 semanas**  
+Formato: **Un producto nuevo por bloque semanal**
 
-Diseñar casos para creación/edición/eliminación de tableros y tarjetas.
+---
 
-Considerar casos positivos, negativos y límites.
+## 🧪 Semana 1 – Pruebas Funcionales Iniciales  
+**Enfoque:** Casos básicos, interfaz de usuario y funciones esenciales.
 
-Día 3-4 – Producto: Jotform
+- **Día 1–2 | Producto: Trello**  
+  - Diseñar casos para creación, edición y eliminación de tableros y tarjetas.  
+  - Incluir pruebas positivas, negativas y de límites.
 
-Probar validaciones de formularios (formatos, campos obligatorios, mensajes de error).
+- **Día 3–4 | Producto: Jotform**  
+  - Validar formularios: formatos, campos obligatorios y mensajes de error.
 
-Día 5 – Producto: Canva
+- **Día 5 | Producto: Canva**  
+  - Probar creación y edición de un diseño simple.  
+  - Verificar guardado automático y exportación.
 
-Probar la creación y edición de un diseño simple.
+---
 
-Validar guardado automático y exportación.
+## 🔄 Semana 2 – Flujo de Negocio y Experiencia de Usuario  
+**Enfoque:** Procesos completos de principio a fin.
 
-Semana 2 – Flujo de negocio y experiencia de usuario
-Enfoque: Procesos completos de principio a fin.
+- **Día 1–2 | Producto: Magento Demo Store**  
+  - Diseñar casos para el flujo de compra: búsqueda, carrito y checkout.
 
-Día 1-2 – Producto: Magento Demo Store
+- **Día 3–4 | Producto: Airbnb**  
+  - Probar búsqueda de alojamientos, aplicación de filtros y reservas simuladas.
 
-Diseñar casos para flujo de compra: búsqueda, carrito, checkout.
+- **Día 5 | Producto: Spotify Web Player**  
+  - Validar creación de playlists, búsqueda y reproducción de canciones.
 
-Día 3-4 – Producto: Airbnb
+---
 
-Probar búsqueda de alojamientos, filtros y reservas simuladas.
+## ⚙️ Semana 3 – Compatibilidad, Rendimiento y APIs  
+**Enfoque:** Cobertura técnica y pruebas específicas.
 
-Día 5 – Producto: Spotify Web Player
+- **Día 1–2 | Producto: Wikipedia**  
+  - Ejecutar pruebas de compatibilidad: navegadores, dispositivos y diseño responsive.
 
-Probar creación de playlists, búsqueda y reproducción de canciones.
+- **Día 3 | Producto: Reqres API**  
+  - Diseñar casos para métodos GET, POST, PUT y DELETE.  
+  - Validar códigos de estado y estructura de datos.
 
-Semana 3 – Compatibilidad, rendimiento y APIs
-Enfoque: Cobertura más técnica.
+- **Día 4 | Producto: BBC News**  
+  - Medir tiempos de carga y evaluar navegación interna.
 
-Día 1-2 – Producto: Wikipedia
+- **Día 5 | Producto: Overleaf**  
+  - Probar creación y edición colaborativa de documentos en LaTeX.
 
-Pruebas de compatibilidad (navegadores, dispositivos, responsive).
+---
 
-Día 3 – Producto: Reqres API
+## 🚀 Semana 4 – Ciclo Completo y Simulación de Entrega  
+**Enfoque:** Simulación de proyecto real de testing.
 
-Diseñar casos para GET, POST, PUT, DELETE. Validar status codes y datos.
+- **Día 1 | Producto: Duolingo Web**  
+  - Diseñar y consolidar casos para login, selección de cursos y ejecución de lecciones.
 
-Día 4 – Producto: BBC News
+- **Día 2–3 | Producto: Figma**  
+  - Ejecutar pruebas de diseño colaborativo: creación y edición en tiempo real.
 
-Probar tiempos de carga y navegación interna.
+- **Día 4 | Producto: Notion**  
+  - Verificar creación de páginas, tablas y colaboración simultánea.
 
-Día 5 – Producto: Overleaf
+- **Día 5 | Producto: Slack Web**  
+  - Probar envío de mensajes, creación de canales y búsqueda de contenido.  
+  - **Redactar reporte final** con hallazgos, evidencias y recomendaciones.
 
-Probar creación y edición de documentos colaborativos en LaTeX.
-
-Semana 4 – Ciclo completo y simulación de entrega
-Enfoque: Simular un proyecto real de testing.
-
-Día 1 – Producto: Duolingo Web
-
-Diseñar y consolidar casos para login, selección de cursos y ejecución de lecciones.
-
-Día 2-3 – Producto: Figma
-
-Ejecutar pruebas de creación/edición colaborativa de un diseño.
-
-Día 4 – Producto: Notion
-
-Verificar creación de páginas, tablas y colaboración en tiempo real.
-
-Día 5 – Producto: Slack Web
-
-Probar envío de mensajes, creación de canales y búsqueda de mensajes.
-
-Redactar reporte final con todos los hallazgos del mes.
+---
