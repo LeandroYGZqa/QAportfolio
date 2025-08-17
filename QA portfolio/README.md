@@ -20,7 +20,7 @@ Cada carpeta lleva el nombre de una aplicación específica (`app`) y contiene l
 |--------------------------------------|-----------------------------------------------------------------------------|
 | ✅ `Objetivos y criterios de aceptación` | Define qué se espera de la app y bajo qué condiciones se considera aprobada. |
 | 🧪 `Casos de prueba`                    | Listado detallado de pruebas diseñadas para validar el funcionamiento de la app. |
-| 📝 `Resolución de casos de prueba`      | Documentos nombrados como `nombre_ticket000-titulo_de_la_prueba`, donde se registra la evidencia y resultados de cada test ejecutado. |
+| 📝 `Resolución de casos de prueba`      | Documentos nombrados como `X001`, donde se registra la evidencia y resultados de cada test ejecutado. |
 
 ---
 
