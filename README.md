@@ -64,17 +64,6 @@ Apasionado por el Aseguramiento de Calidad (QA) y la optimización de entregas d
 
 ---
 
-## 📁 Proyectos destacados
-
-| Proyecto                  | Descripción breve                                      |
-|---------------------------|--------------------------------------------------------|
-| `qa-automation-suite`     | Scripts automatizados con Playwright para regresión    |
-| `exploratory-test-cases` | Casos de prueba exploratorios documentados en Markdown |
-| `bug-reporting-template` | Plantilla para reporte de bugs con trazabilidad clara  |
-| `qa-learning-journal`     | Registro de aprendizajes y recursos sobre QA           |
-
----
-
 ## 📬 Contacto
 
 - 📧 ygzleandro@gmail.com 
