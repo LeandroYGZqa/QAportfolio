@@ -1,22 +1,22 @@
 # 🧪 Leandro Yñiguez – QA Portfolio
 
-¡Hola! Soy Leandro Yñiguez, Tester QA con experiencia en automatización, pruebas exploratorias y mejora continua de procesos. Este repositorio reúne mis proyectos, aprendizajes y contribuciones en el mundo del aseguramiento de calidad, con foco en eficiencia, cobertura y experiencia del usuario.
+¡Hola! Soy Leandro Yñiguez, Tester QA con experiencia en automatización, pruebas exploratorias y mejora continua de procesos. Este repositorio reúne mis proyectos diseñados para demostrar mis habilidades técnicas como tester con el objetivo de encontrar mi siguiente oportunidad de trabajo.
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Apasionado por el Aseguramiento de Calidad (QA) y la optimización de entregas de software de alta calidad. Me especializo en automatización de pruebas, detección de casos límite y colaboración en equipos ágiles. Busco aplicar mis conocimientos técnicos y habilidades blandas en entornos desafiantes y colaborativos.
+Apasionado por el Aseguramiento de Calidad (QA) y la optimización de entregas de software de alta calidad. Me especializo en automatización de pruebas y colaboración en equipos ágiles. Busco aplicar mis conocimientos técnicos y habilidades blandas en entornos desafiantes y colaborativos para garantizar la calidad de producto. 
 
 ---
 
 ## 🧰 Tecnologías y herramientas
 
-- **Automatización**: Playwright, Cypress  
+- **Automatización**: Selenium
 - **Gestión de pruebas**: Jira, Postman  
-- **Lenguajes**: Python, SQL, HTML, CSS  
+- **Lenguajes**: Java
 - **Control de versiones**: GitHub  
-- **Otros**: Sentry, CI/CD pipelines
+- **Otros**: IA como asistente
 
 ---
 
@@ -24,12 +24,9 @@ Apasionado por el Aseguramiento de Calidad (QA) y la optimización de entregas d
 
 ### 🏢 Proveedores de América (E-commerce B2B) | Remoto, Costa Rica  
 **QA Automation Specialist** *(Jul 2023 – Abr 2025)*  
-- +95% de cobertura en módulos críticos mediante automatización  
-- +10 scripts con Playwright integrados en CI/CD  
-- Reducción del tiempo de validación en despliegues en un 50%  
-- Suites de regresión automatizadas que disminuyeron bugs en un 30%  
-- Reporte de errores con Sentry para mejorar trazabilidad  
-- Propuestas de mejora en SCRUM remoto que aumentaron eficiencia en 15%
+- Cobertura en módulos críticos mediante automatización  
+- Suites de regresión automatizadas
+- Propuestas de mejora en SCRUM remoto
 
 **Tester QA** *(Ene 2022 – Jun 2023)*  
 - +200 pruebas exploratorias en licitaciones y publicidad  
@@ -66,7 +63,7 @@ Apasionado por el Aseguramiento de Calidad (QA) y la optimización de entregas d
 
 ## 📬 Contacto
 
-- 📧 ygzleandro@gmail.com 
+- 📧 yniguezleandro@gmail.com 
 - 📍 Santa Fe ciudad, Santa Fe, Argentina  
 
 ---
