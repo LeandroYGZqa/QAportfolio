@@ -41,13 +41,11 @@ Los 3 productos fueron agregados con su precio correctamente a "cart".
 
 #### Evidencia
 
-![Carrito](..\pruebas\c001\c001.png)
-![Carrito](..\pruebas\c001\c001-1.png)
-![Carrito](..\pruebas\c001\c001-2.png)
-![Carrito](..\pruebas\c001\c002-3.png)
-![Carrito](..\pruebas\c001\c001-4.png)
-![Carrito](..\pruebas\c001\c001-5.png)
-
+![p1 c001](/Portfolio%202026/Demoblaze/pruebas/c001/c001.png)
+![p2 c001](/Portfolio%202026/Demoblaze/pruebas/c001/c001-1.png)
+![p3 c001](/Portfolio%202026/Demoblaze/pruebas/c001/c001-2.png)
+![p4 c001](/Portfolio%202026/Demoblaze/pruebas/c001/c001-4.png)
+![Cp5 c001](/Portfolio%202026/Demoblaze/pruebas/c001/c001-5.png)
 
 #### Observaciones
 
