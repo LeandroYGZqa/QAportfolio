@@ -41,12 +41,12 @@ Los 3 productos fueron agregados con su precio correctamente a "cart".
 
 #### Evidencia
 
-![Carrito](../pruebas\c001.png)
-![Carrito](../pruebas\c001-1.png)
-![Carrito](../pruebas\c001-2.png)
-![Carrito](../pruebas\c002-3.png)
-![Carrito](../pruebas\c001-4.png)
-![Carrito](../pruebas\c001-5.png)
+![Carrito](..\pruebas\c001\c001.png)
+![Carrito](..\pruebas\c001\c001-1.png)
+![Carrito](..\pruebas\c001\c001-2.png)
+![Carrito](..\pruebas\c001\c002-3.png)
+![Carrito](..\pruebas\c001\c001-4.png)
+![Carrito](..\pruebas\c001\c001-5.png)
 
 
 #### Observaciones
